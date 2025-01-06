@@ -6,7 +6,7 @@
 ;; Created: 20 Feb 2009
 ;; Keywords: tools processes
 ;; Version: 0.5.2
-;; URL: https://github.com/remvee/android-mode
+;; URL: https://codeberg.org/rwv/android-mode
 
 ;; Contributors:
 ;;   Bert Hartmann
